@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="ENABLE_SUITABLE_CONFIGURATION_CACHING" value="true" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+    <option name="showStatusBarWidget" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="81acb3a7-e929-4ada-a9a9-4eeaf4300038" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/Documents/GitHub/Underground_Sports/Menu Prototype/Assets/Scripts/HotDogEating/EatingFlow.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ExplosionDelete.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyBulletL2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Documents/GitHub/Underground_Sports/Menu Prototype/Assets/Scripts/MapMenu/PlayPrefsTest.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MenuManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://D:/Term1/Stella's work/Wk2/ChickenChaser/Assets/Scripts/Bullet.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WaveSpawn.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Documents/GitHub/Underground_Sports/Menu Prototype/Assets/Scripts/TunaTossing/TTGlobalData.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HealthPickup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://D:/Term1/Stella's work/Wk2/ChickenChaser/Assets/Scripts/Health.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Documents/GitHub/Underground_Sports/Menu Prototype/Assets/Scripts/TunaTossing/TossTuna.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://D:/Term1/Stella's work/Wk2/ChickenChaser/Assets/Scripts/BasicController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CannonTargeting.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://D:/College/CursorScript.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/KamiAttack.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyBullet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://D:/Term1/Stella's work/Wk2/ChickenChaser/Assets/Scripts/UI.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Documents/GitHub/Underground_Sports/Menu Prototype/Assets/Scripts/CaberToss/WinAndRetryCT.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Boundaries.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMove.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://D:/Term1/Stella's work/Wk2/ChickenChaser/Assets/Scripts/Money.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://D:/Term1/Stella's work/Wk2/ChickenChaser/Assets/Scripts/GlobalData.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerPrefsSave.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Kami.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Health.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/P2DualCannons.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyFireL2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Bullet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyMove.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyFire.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMoveL2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BossMove.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GlobalDataLvl1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/spawnMeteors.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/asteroid.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Boundaries.cs" />
+        <option value="D:/Term1/Stella's work/Wk2/ChickenChaser/Assets/Scripts/BasicController.cs" />
+        <option value="D:/Term1/Stella's work/Wk2/ChickenChaser/Assets/Scripts/Bullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/asteroid.cs" />
+        <option value="$PROJECT_DIR$/Assets/spawnMeteors.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/backgroundLooper.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/EnemyBullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyMove.cs" />
+        <option value="$PROJECT_DIR$/Assets/CannonTargeting.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BossMove.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WaveSpawn.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerPrefs.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ExplosionDelete.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharMovementNULL.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/P2DualCannons.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WaveSpawnLvl2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Kami.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyFire.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GlobalDataLvl2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyFireL2.cs" />
+        <option value="$USER_HOME$/Documents/GitHub/Underground_Sports/Menu Prototype/Assets/Scripts/HotDogEating/EatingFlow.cs" />
+        <option value="$PROJECT_DIR$/Assets/KamiAttack.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GlobalDataLvl1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Health.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/asteroid.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Bullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HealthPickup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMove.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMoveL2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyBulletL2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyBullet.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bGV6iKmlG8RLdsFT0AZkc3x9jx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor &amp; Play">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Unnamed" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81acb3a7-e929-4ada-a9a9-4eeaf4300038" name="Default Changelist" comment="" />
+      <created>1588258253028</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588258253028</updated>
+      <workItem from="1588258271102" duration="735000" />
+      <workItem from="1588274531025" duration="6248000" />
+      <workItem from="1588321511660" duration="20183000" />
+      <workItem from="1588344300146" duration="4395000" />
+      <workItem from="1588361077266" duration="1485000" />
+      <workItem from="1588410341644" duration="258000" />
+      <workItem from="1588412195803" duration="1945000" />
+      <workItem from="1588414905610" duration="16737000" />
+      <workItem from="1588504251934" duration="24915000" />
+      <workItem from="1588582460129" duration="7737000" />
+      <workItem from="1588767947090" duration="1625000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588258821595">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1588258821595" />
+    <state x="448" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1588410534470">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="448" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1588410534470" />
+    <state x="-1827" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1588524474411">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1827" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1588524474411" />
+    <state x="-1648" y="-14" width="1114" height="809" maximized="true" key="dock-window-1" timestamp="1588344789306">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1648" y="-14" width="1114" height="809" maximized="true" key="dock-window-1/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1588344789306" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1588329833722">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1588329833722" />
+  </component>
+</project>
