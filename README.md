@@ -1,5 +1,5 @@
 # GalaxyDefender
-A solo side project to develop an enemy wave generation system from scratch using Unity.
+  A solo side project to develop an enemy wave generation system from scratch using Unity.
 
 # Features
 - Customisable wave generator script that can be easily implemented into any project.
